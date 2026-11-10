@@ -1,0 +1,10 @@
+{
+  "template": "docs/architecture/arch.html.template",
+  "output": "docs/architecture/arch.html",
+  "figures": [
+    {"slug": "domain-model", "svg": "docs/architecture/assets/domain-model.svg"},
+    {"slug": "logical-arch", "svg": "docs/architecture/assets/logical-arch.svg"},
+    {"slug": "core-sequence", "svg": "docs/architecture/assets/core-sequence.svg"},
+    {"slug": "deployment", "svg": "docs/architecture/assets/deployment.svg"}
+  ]
+}
